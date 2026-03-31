@@ -24,13 +24,13 @@ repository               : "cxweoth/cxweoth.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tsung-Hsuan Hung"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a Ph.D. student at OIST, working on cooperative AI and robust AI. I believe these are essential to making robots truly part of everyday human life."
+  location         : "Okinawa, Japan"
+  employer         : "OIST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cxweoth@gmail.com" 
 
   # Academic websites
   academia         : # URL
