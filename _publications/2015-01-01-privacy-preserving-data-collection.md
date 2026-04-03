@@ -1,7 +1,7 @@
 ---
 title: "Privacy-preserving data collection and recovery of compressive sensing"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2015-01-01-privacy-preserving-data-collection
 excerpt: 'This paper explores methods for privacy-preserving data collection and the subsequent recovery processes in compressive sensing frameworks.'
 date: 2015-01-01
